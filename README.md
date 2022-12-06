@@ -9,9 +9,11 @@ A sample template for GitHub best practices
 
 https://github.com/devcontainers/ci/blob/main/docs/github-action.md
 
-## Episode 2:  Got testing in prebuild
+## Episode 2:  Got testing in prebuild and matrix testing
 
-This was accomplished via `devcontainer-ci.yml`
+* This was accomplished via `devcontainer-ci.yml`
+* Setup Matrix build: `matrix-python.yml`
+* Find out all of the version of Python you can do this:  https://github.com/actions/python-versions/blob/main/versions-manifest.json
 
 
 ## Reference
