@@ -3,3 +3,8 @@
 
 # GitHub-Template
 A sample template for GitHub best practices
+
+
+## Reference
+
+* Use [GitHub Actions with .devcontainer](https://github.com/devcontainers/ci/blob/main/docs/github-action.md)
